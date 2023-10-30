@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Onest:wght@200;700&family=Playfair+Display:wght@600&display=swap');
+
+
+body {
+    background-color: rgba(35, 52, 63, 0.89);
+    background-image: url(../img/background.png);
+}
+
+
+.heading {
+    margin: 0 auto;
+    color: white;
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    font-size: 150%;
+        
+}
+
+.subheading {
+    color: white;
+    text-align: left;
+    font-family: 'Playfair Display', serif;
+    
+}
+
+.ingredients {
+    width: 50%;
+    margin: 0 auto;
+    color: white;
+    font-family: 'Onest', sans-serif;
+}
+
+.ingredients-table {
+    margin: 37px;
+    min-width: 350px;
+       
+}
+
+.instructions {
+    width: 50%;
+    margin: 0 auto;
+    color: white;
+    font-family: 'Onest', sans-serif;
+}
+
+.instructions ol {
+    width: 75%;
+    font-weight: 700;
+    margin-left: 0 auto;
+}
+
+.cooking-method {
+    font-weight: 200;
+}
+.recipe-source {
+    font-family: 'Onest', sans-serif;
+    color: aliceblue;
+    margin-left: 475px;
+        
+}
+
+.horizontal-line {
+    opacity: 20%;
+}
+
+.footer {
+    font-family: 'Onest', sans-serif;
+    color: aliceblue;
+}
+
+.food-pic {
+        padding-left: 510px;
+        
+}
+
